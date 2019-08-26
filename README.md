@@ -18,4 +18,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## License
 
-Tona Daphin 2019.
+Tona Daphin 2019
