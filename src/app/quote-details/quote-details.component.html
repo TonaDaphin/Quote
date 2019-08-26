@@ -1,0 +1,7 @@
+<p>
+    Author: {{quote.author}}<br>
+    Uploaded by: {{quote.uploaded}}<br>
+    Published on: {{quote.publishedDate|date|uppercase}}<br>
+    Upvotes: {{quote.upvote}}   Downvotes: {{quote.downvote}}
+</p>
+<button (click)= 'quoteDelete(true)'>Delete Quote</button>
