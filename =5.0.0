@@ -1,0 +1,7 @@
+remove-trailing-separator@1.1.0 node_modules/anymatch/node_modules/normalize-path/node_modules/remove-trailing-separator -> node_modules/remove-trailing-separator
+quotes@0.0.0 /home/wecode/Documents/Projectnew/Quotes
+├── @angular-devkit/schematics@8.3.0 
+├── UNMET PEER DEPENDENCY @angular/compiler@8.2.4
+├── @angular/compiler-cli@8.2.7 
+└── UNMET PEER DEPENDENCY typescript@3.1.6
+
